@@ -1,7 +1,7 @@
 {
   "name": "multipage",
   "version": "0.1.0",
-  "homepage": "https://bengguankoay.github.io/multipage",
+  "homepage": "https://bengguankoay.github.io/reactmultipage",
   "private": true,
   "dependencies": {
     "react": "^18.0.0",

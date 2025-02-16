@@ -82,4 +82,11 @@ The `NavbarElements` component is located in `src/components/NavbarElements.js`.
 
 This project is licensed under the MIT License.
 
+## Problems & solutions
+
+- problem: create-react-app multipage, solution: create-react-app multipage --template minimal
+- create-react-app initially used react 19, changed to react 18
+- installed required dependencies to ensure working react app
+- deploy uses git remote set-url origin git@github.com:bengguankoay/reactmultipage.git
+
 Reference : https://github.com/gitname/react-gh-pages
