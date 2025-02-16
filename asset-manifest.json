@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/multipage/static/js/main.7855a70a.js",
-    "index.html": "/multipage/index.html",
-    "main.7855a70a.js.map": "/multipage/static/js/main.7855a70a.js.map"
+    "main.js": "/reactmultipage/static/js/main.a73ac3fc.js",
+    "index.html": "/reactmultipage/index.html",
+    "main.a73ac3fc.js.map": "/reactmultipage/static/js/main.a73ac3fc.js.map"
   },
   "entrypoints": [
-    "static/js/main.7855a70a.js"
+    "static/js/main.a73ac3fc.js"
   ]
 }
